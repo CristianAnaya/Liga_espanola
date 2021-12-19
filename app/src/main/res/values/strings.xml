@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Liga española</string>
+    <string name="str_title_team">Equipos de la liga española</string>
+    <string name="str_nombre_team">Nombre:</string>
+    <string name="str_estadio">Estadio:</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="str_team_description">Team Description</string>
+    <string name="str_jersey">Jersey</string>
+    <string name="str_social_networks">social networks</string>
+
+</resources>
